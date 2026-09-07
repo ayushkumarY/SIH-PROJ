@@ -1,0 +1,25 @@
+{
+    "record_id": "f4182448-2f41-4242-893a-ec506c149d26",
+    "timestamp": "2026-09-06T05:35:56.115464+00:00",
+    "nonce": "bfe3b9e7-7914-4821-9d23-730d727a6e50",
+    "image": {
+        "file_name": "car1.jpg",
+        "sha256": "b849b76bbb18a8dc3b5d6ca58e8fcd6cac45955253409abb9cf7a1e2465717f0"
+    },
+    "model": {
+        "file_name": "trustguard_resnet50.pth",
+        "format": "pytorch",
+        "sha256": "c6985cf8d1270d8c5bcc9213fd21ef5082cdc8fe280c71c5944e42b176f1233c"
+    },
+    "preprocessing": {
+        "configuration": "ImageNet-224"
+    },
+    "prediction": {
+        "model_type": "pytorch",
+        "class_id": 600,
+        "label": "600",
+        "confidence": 0.0903
+    },
+    "integrity_hash": "4673a6cbedc901e2cc2bf59aa5a7440c38273c10ce7c7c39209b767989f17c13",
+    "digital_signature": "245f6499c7e5047b3308043839d41a5054e6609d454eb3f12cd3f258089c0b1e2a61f812f68b351d00832dd91f1d48d9e9d061c427baa229b1ac986082eb012bc163bed820f0d03d5f389a1e723bb5b1bc043456fd92f97efd08732295aac1eb405921cafe636186add1f65f92d45e6a5731462a9ad68f8301161bb902fe627a9769d94af4814cf6571646d47c41f35e9281f075f25635dd7b37c82709af00c34b2961e95e356284c6499560a9ab01e4c5d90dd857083964b56b35c75c26cff91f5eb772ad19793eff832be6a3cc26e6060b586772d3c46e24e7c5d07c58b65f47cca14db3b5e085bff5d57bcd7ef98615bcf20db879fb652036218f647327fc"
+}
