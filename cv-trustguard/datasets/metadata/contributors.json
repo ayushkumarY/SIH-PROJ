@@ -1,0 +1,28 @@
+{
+    "contributors": [
+        {
+            "image": "car1.jpg",
+            "contributor": "Contributor_A",
+            "batch": "BATCH_001",
+            "source": "camera_A"
+        },
+        {
+            "image": "car2.jpg",
+            "contributor": "Contributor_A",
+            "batch": "BATCH_001",
+            "source": "camera_A"
+        },
+        {
+            "image": "car3.jpg",
+            "contributor": "Contributor_B",
+            "batch": "BATCH_002",
+            "source": "camera_B"
+        },
+        {
+            "image": "dog1.jpg",
+            "contributor": "Contributor_B",
+            "batch": "BATCH_002",
+            "source": "camera_B"
+        }
+    ]
+}

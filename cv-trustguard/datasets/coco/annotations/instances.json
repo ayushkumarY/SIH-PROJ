@@ -1,0 +1,99 @@
+{
+  "info": {
+    "description": "CV TrustGuard COCO Label Anomaly Test Dataset",
+    "version": "1.0"
+  },
+  "licenses": [],
+  "images": [
+    {
+      "id": 1,
+      "file_name": "car1.jpg",
+      "width": 640,
+      "height": 480
+    },
+    {
+      "id": 2,
+      "file_name": "car2.jpg",
+      "width": 640,
+      "height": 480
+    },
+    {
+      "id": 3,
+      "file_name": "car3.jpg",
+      "width": 640,
+      "height": 480
+    },
+    {
+      "id": 4,
+      "file_name": "dog1.jpg",
+      "width": 640,
+      "height": 480
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "car",
+      "supercategory": "vehicle"
+    },
+    {
+      "id": 2,
+      "name": "dog",
+      "supercategory": "animal"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        130,
+        190,
+        380,
+        240
+      ],
+      "area": 91200,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        130,
+        195,
+        380,
+        240
+      ],
+      "area": 91200,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 2,
+      "bbox": [
+        130,
+        200,
+        380,
+        240
+      ],
+      "area": 91200,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4,
+      "category_id": 2,
+      "bbox": [
+        165,
+        105,
+        245,
+        285
+      ],
+      "area": 69825,
+      "iscrowd": 0
+    }
+  ]
+}
