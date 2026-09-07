@@ -1,0 +1,7 @@
+{
+    "model_name": "trustguard_resnet50.pth",
+    "model_format": "Test/Binary",
+    "sha256": "c6985cf8d1270d8c5bcc9213fd21ef5082cdc8fe280c71c5944e42b176f1233c",
+    "created_at": "2026-09-06T05:50:05.361207",
+    "trusted": true
+}

@@ -1,0 +1,26 @@
+{
+    "model_name": "ResNet50",
+    "created_at": "2026-09-05T16:23:32.993289",
+    "predictions": [
+        {
+            "image": "car1.jpg",
+            "label": "hook",
+            "confidence": 0.2514
+        },
+        {
+            "image": "car2.jpg",
+            "label": "hook",
+            "confidence": 0.1998
+        },
+        {
+            "image": "car3.jpg",
+            "label": "hook",
+            "confidence": 0.1121
+        },
+        {
+            "image": "dog1.jpg",
+            "label": "envelope",
+            "confidence": 0.376
+        }
+    ]
+}
